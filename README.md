@@ -261,3 +261,11 @@ MIT — see [`LICENSE`](LICENSE). The code is MIT licensed; the package
 metadata and vulnerability data themselves are republished from each
 registry's own public API and from OSV.dev, and belong to their respective
 sources.
+
+## Related open datasets
+
+Part of a small set of free, daily-refreshed datasets built the same way:
+zero-dependency Node fetcher, GitHub Actions refresh, public endpoints only.
+
+- **[Open Jobs Data](https://github.com/ConorsCode/open-jobs-data)** — 15,919 open job postings from 90 companies across nine applicant tracking systems.
+- **[Open FedSpend Data](https://github.com/ConorsCode/open-fedspend-data)** — 28,092 recent US federal contract awards from USAspending.gov, with recipient and agency aggregates.
