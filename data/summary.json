@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-27T12:47:31.853Z",
+  "generatedAt": "2026-09-28T14:55:27.995Z",
   "total": 1500,
   "byEcosystem": {
     "npm": 1000,
     "pypi": 500
   },
   "withKnownVulnerabilities": {
-    "npm": 163,
+    "npm": 162,
     "pypi": 132
   },
   "staleFlagged": {
-    "npm": 290,
+    "npm": 293,
     "pypi": 37
   },
   "deprecatedFlagged": {
     "npm": 7
   },
   "notFound": 0,
-  "elapsedMs": 730878
+  "elapsedMs": 728559
 }
