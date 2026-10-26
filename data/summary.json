@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:25:14.597Z",
+  "generatedAt": "2026-10-26T13:56:53.580Z",
   "total": 1500,
   "byEcosystem": {
     "npm": 1000,
@@ -10,12 +10,12 @@
     "pypi": 142
   },
   "staleFlagged": {
-    "npm": 278,
-    "pypi": 43
+    "npm": 280,
+    "pypi": 44
   },
   "deprecatedFlagged": {
     "npm": 7
   },
   "notFound": 0,
-  "elapsedMs": 749112
+  "elapsedMs": 742546
 }
